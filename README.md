@@ -1,9 +1,24 @@
-# Getting Started with Create React App
+# Bersama Login Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+In this project, I decided to code my own Bersama Fellowship Login page. _Bersama Fellowship_ is a welcoming community of students who have a relationship with or an interest in Indonesian, Malaysian, and Singaporean culture that strives to nurture the faith of each of its members. Our name, Bersama, which means “together,” represents our goal to establish and maintain a family-like community. We are open for all students who want to serve, educate, and celebrate our shared culture. In this app, there are two main features, which are submitting basic data (student ID, name, birthday, gender, nationality, email, phone number, major, favourite foods, and favourite sports) and searching/outputting the users' data in local storage. In addition, this app includes some buttons to remove the selected user data or to remove all the data. This app also includes some basic CSS styling such as background image, colors, and font sizes.
+
+## Requirements
+* React.js
+
+## Instructions
+1. Download all files.
+2. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Example of Project
+
+![Project Example 1](https://user-images.githubusercontent.com/90052277/185561711-11a7562b-883f-42ee-b19c-30fead0103c9.png)
+
+![Project Example 2](https://user-images.githubusercontent.com/90052277/185561723-b3827c1a-c4e8-4bc2-9074-ec16aa94cd92.png)
+
+https://user-images.githubusercontent.com/90052277/185803184-b577fba5-7939-4a90-8be9-d50917891162.mp4
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
